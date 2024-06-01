@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDpUetrJrxAuFbcrANMv2V2a1viNp09ZNU',
+    apiKey: '*',
     appId: '1:242647225865:android:af6d0a4acefe64e057cad8',
     messagingSenderId: '242647225865',
     projectId: 'mobilgame',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBWOvnBWpaPI990DOuc5JZfViWhXdsHzQE',
+    apiKey: '*',
     appId: '1:242647225865:ios:fc54f81d2639995457cad8',
     messagingSenderId: '242647225865',
     projectId: 'mobilgame',
